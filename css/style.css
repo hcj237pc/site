@@ -1,5 +1,8 @@
 td{
-	padding: 20px 30px 40px 50px;
+	padding: 20px 30px;
     background: #C21919;
+    border-color: #D8CE15;
+    border-style: double; 
+    border-width: 20px 10px;
 
 }
