@@ -10,8 +10,14 @@
 	background-color: #0000FF;
 }
 .slider{
-	height: 100px;
+	height: 500px;
 	width: 75%;
 	margin: 0 auto;
 	background-color: #FFFF00;
+}
+.content{
+	height: 1000px;
+	width: 75%;
+	margin: 20px auto;
+	background-color: #FF00FF;
 }
