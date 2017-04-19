@@ -1,0 +1,25 @@
+*{m0;p0}
+.container{
+	width: 500px;
+  height: 500px;
+  background-color: #1E0CB9;
+  padding: 20px;
+}
+.bd{
+	width: 400px;
+  height: 400px;
+  background-color: #B92A0C;
+  padding: 20px;
+}
+.pd{
+	width: 300px;
+  height: 300px;
+  background-color: #EAE41D;
+  padding: 20px;
+}
+.contenent{
+	width: 200px;
+  height: 200px;
+  background-color: #F1F0F5;
+  padding: 20px;
+}
